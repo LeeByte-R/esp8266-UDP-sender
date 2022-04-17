@@ -5,6 +5,7 @@ esp8266 WIFI UDP傳送器
 
 ![image](https://github.com/LeeByte-R/esp8266-UDP-sender/blob/master/dataflow.jpg)
 
-demo
+demo:
+host電腦收到的資料
 
 ![image](https://github.com/LeeByte-R/esp8266-UDP-sender/blob/master/demo.png)
